@@ -1,0 +1,7 @@
+# Unequal sizes and partial lists: 5 applicants, 3 internships.
+# Nobody has to rank everything -- an unranked pair is mutually unacceptable.
+jo:     acme, bolt
+kai:    bolt, acme, crux
+lena:   acme
+mo:     crux, bolt
+nina:   bolt, crux, acme

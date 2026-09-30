@@ -1,0 +1,11 @@
+# Students ranking projects, most preferred first.
+#
+# This instance is constructed so the two sides disagree as much as possible:
+# each project's favourite student is the one who ranked it *last*. It is the
+# worst case for whichever side does not propose -- try `--compare`.
+ana:   compiler, graphics, robotics, security, database, ml
+ben:   graphics, robotics, security, database, ml, compiler
+cara:  robotics, security, database, ml, compiler, graphics
+dan:   security, database, ml, compiler, graphics, robotics
+eve:   database, ml, compiler, graphics, robotics, security
+finn:  ml, compiler, graphics, robotics, security, database

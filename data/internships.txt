@@ -1,0 +1,3 @@
+acme:  lena, jo, kai
+bolt:  kai, nina, jo, mo
+crux:  mo, nina, kai

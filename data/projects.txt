@@ -1,0 +1,7 @@
+# Project supervisors ranking students, most preferred first.
+compiler:  ben, cara, dan, eve, finn, ana
+graphics:  cara, dan, eve, finn, ana, ben
+robotics:  dan, eve, finn, ana, ben, cara
+security:  eve, finn, ana, ben, cara, dan
+database:  finn, ana, ben, cara, dan, eve
+ml:        ana, ben, cara, dan, eve, finn

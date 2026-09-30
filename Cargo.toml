@@ -1,0 +1,7 @@
+[package]
+name = "stable-match"
+version = "0.1.0"
+edition = "2021"
+description = "Gale-Shapley stable matching, with a CLI (Programming Assignment 1, Track B)"
+
+[dependencies]
